@@ -1,2 +1,1 @@
-# trabalho-samba
-Trabalho da escola
+Trabalho Samba
