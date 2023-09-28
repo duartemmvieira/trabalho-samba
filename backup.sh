@@ -7,8 +7,8 @@ LOCAL=./backups
 name_backup="Backup_${DATE}.zip"
 
 PASTAS=(
-    ./priv
-    ./pub
+    ./private
+    ./public
     ./usr1
     ./usr2
 )
